@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culcat&label=Profile%20views&color=0e75b6&style=flat" alt="culcat" /> </p>
 
-- 🌱 I’m currently learning **fastapi**
+- 🌱 I’m currently learning **foundamental js**
 
 - 📄 Know about my experiences [https://rostov.hh.ru/resume/6dca6941ff0b1ea7090039ed1f5258347a6333](https://rostov.hh.ru/resume/6dca6941ff0b1ea7090039ed1f5258347a6333)
 
